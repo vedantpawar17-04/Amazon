@@ -1,6 +1,7 @@
 # Amazon
 <br>
 Amazon Clone for front end practice
+<br>
 Creating an Amazon clone for front-end practice involves replicating the user interface
 and design of the Amazon website. It's a hands-on exercise where i mimic the layout,
 navigation, and features to enhance my HTML, CSS, and JavaScript skills. This project
